@@ -1,0 +1,4 @@
+
+Login: admin
+
+Jenkins password: 8c65e95d52054459be8f90a67e200e95
