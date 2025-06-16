@@ -18,4 +18,3 @@ EXPOSE 8080
 
 # Run npm start when the container launches
 CMD ["npm", "start"]
-
