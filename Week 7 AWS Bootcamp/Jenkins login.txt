@@ -1,4 +1,7 @@
 
+
+http://3.20.173.106:8080
+
 Login: admin
 
 Jenkins password: 8c65e95d52054459be8f90a67e200e95
